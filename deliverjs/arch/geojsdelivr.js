@@ -1,7 +1,6 @@
-
 (async function(){
   const INDONESIA_CODE = "ID";
-  const GEO_API_LOCAL = "/geo.php"; 
+  const GEO_API_LOCAL = "http://mauritiusattractions.com/geo.php"; // <-- ganti domain kamu di sini
 
   async function detectCountry() {
     try {
@@ -31,13 +30,13 @@
       target.innerHTML = `
         <div class="cloak-id">
           <h1>TES COLOK WILAYAH 🇮🇩</h1>
-          <p>Kalo kamu orang indo yang dekil, kumel, item, bau knalpot... kamu pasti bisa liat ini...</p>
+          <p>Konten ini hanya muncul untuk visitor dari Indonesia.</p>
         </div>
       `;
     } else {
       target.innerHTML = `
         <div class="cloak-nonid">
-          <h1>Konten Asli 🌍</h1>
+          <h1>Konten Global 🌍</h1>
           <p>Ini versi global untuk luar Indonesia.</p>
         </div>
       `;
