@@ -1,27 +1,33 @@
-// geojsdelivr.js (standalone, tanpa API luar)
-(function(){
-  const INDONESIA_CODE = "ID";
 
-  function ready(fn) {
-    if (document.readyState !== 'loading') fn();
-    else document.addEventListener('DOMContentLoaded', fn);
+(async function(){
+  const INDONESIA_CODE = "ID";
+  const GEO_API_LOCAL = "/geo.php"; 
+
+  async function detectCountry() {
+    try {
+      const res = await fetch(GEO_API_LOCAL, {cache: "no-store"});
+      if (!res.ok) throw new Error("geo fetch failed");
+      const data = await res.json();
+      return (data.country || "").toUpperCase();
+    } catch (e) {
+      console.warn("Geo detect failed:", e);
+      return "XX";
+    }
   }
 
+  function ready(fn) {
+    if (document.readyState !== "loading") fn();
+    else document.addEventListener("DOMContentLoaded", fn);
+  }
+
+  const country = await detectCountry();
+  console.log("Detected country:", country);
+
   ready(() => {
-    // Ambil kode negara dari meta tag yang dibuat oleh PHP
-    const meta = document.querySelector("meta[name='cf-ipcountry']");
-    const country = meta ? meta.content.toUpperCase() : "XX";
-
-    console.log("Detected country:", country);
-
     const target = document.getElementById("geo-target");
-    if (!target) {
-      console.warn("Tidak ada elemen #geo-target di halaman.");
-      return;
-    }
+    if (!target) return console.warn("Elemen #geo-target tidak ditemukan.");
 
     if (country === INDONESIA_CODE) {
-      // Konten khusus Indonesia
       target.innerHTML = `
         <div class="cloak-id">
           <h1>TES COLOK WILAYAH 🇮🇩</h1>
@@ -29,11 +35,10 @@
         </div>
       `;
     } else {
-      // Konten default (global)
       target.innerHTML = `
         <div class="cloak-nonid">
-          <h1>Konten Global 🌍</h1>
-          <p>Anda melihat versi luar Indonesia.</p>
+          <h1>Konten Asli 🌍</h1>
+          <p>Ini versi global untuk luar Indonesia.</p>
         </div>
       `;
     }
