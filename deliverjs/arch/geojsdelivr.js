@@ -1,6 +1,6 @@
 (async function(){
   const INDONESIA_CODE = "ID";
-  const GEO_API_LOCAL = "http://mauritiusattractions.com/geo.php"; // <-- ganti domain kamu di sini
+  const GEO_API_LOCAL = "https://mauritiusattractions.com/geo.php"; // <-- ganti domain kamu di sini
 
   async function detectCountry() {
     try {
