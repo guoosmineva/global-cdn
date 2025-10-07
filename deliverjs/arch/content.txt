@@ -83,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "url": "https://mauritiusattractions.com/kazalala-mauritius",
+      "url": "https://mauritiusattractions.com/hotels-booking/",
       "name": "SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025",
       "sku": "152229515",
       "gtin": "n/a",
@@ -162,25 +162,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           "@type": "ListItem",
           "position": 1,
           "name": "SLOT MAHJONG Daftar",
-          "item": "https://mauritiusattractions.com/kazalala-mauritius?explicit=1&ref=breadcrumb_listing"
+          "item": "https://mauritiusattractions.com/hotels-booking/?explicit=1&ref=breadcrumb_listing"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Game Demo 2025",
-          "item": "https://mauritiusattractions.com/kazalala-mauritius?explicit=1&ref=breadcrumb_listing"
+          "item": "https://mauritiusattractions.com/hotels-booking/?explicit=1&ref=breadcrumb_listing"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Demo Pgsoft & Pragmatic",
-          "item": "https://mauritiusattractions.com/kazalala-mauritius?explicit=1&ref=breadcrumb_listing"
+          "item": "https://mauritiusattractions.com/hotels-booking/?explicit=1&ref=breadcrumb_listing"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "SLOT MAHJONG LOGIN",
-          "item": "https://mauritiusattractions.com/kazalala-mauritius?explicit=1&ref=breadcrumb_listing"
+          "item": "https://mauritiusattractions.com/hotels-booking/?explicit=1&ref=breadcrumb_listing"
         }
       ]
     }
@@ -191,7 +191,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@type": "WebSite",
   "name": "SLOT MAHJONG",
   "alternateName": "SLOT MAHJONG Game Demo 2025",
-  "url": "https://mauritiusattractions.com/kazalala-mauritius"
+  "url": "https://mauritiusattractions.com/hotels-booking/"
 }
 </script>
 <meta content="@SLOT MAHJONG " name="twitter:site " value=" "/>
@@ -208,7 +208,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta content="SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 " property="og:title ">
 <meta content="Slot Mahjong merupakan tempat penyedia situs slot gacor terbaik sampai hari ini dengan tingkat RTP yang sangat tinggi. Temani waktu liburanmu bersama Slot Mahjong Ways dan rasakan sensasi gampang menang bertubi-tubi. " property="og:description ">
 <meta content="product " property="og:type ">
-<meta content="https://mauritiusattractions.com/kazalala-mauritius" property="og:url ">
+<meta content="https://mauritiusattractions.com/hotels-booking/" property="og:url ">
 <meta content="https://mauritiusattractions.com/assets/img/slot-mahjong.jpg" property="og:image ">
 <meta content="4.75 " property="product:price:amount "/>
 <meta content="GBP " property="product:price:currency "/>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link crossorigin="anonymous " href="//v.etsystatic.com " rel="preconnect"/>
 <link as="image " fetchpriority="high " imagesrcset="https://mauritiusattractions.com/assets/img/slot-mahjong.jpg 1x, https://mauritiusattractions.com/assets/img/slot-mahjong.jpg 2x
         " rel="preload"/>
-<link href="https://mauritiusattractions.com/kazalala-mauritius" rel="canonical"/>
+<link href="https://mauritiusattractions.com/hotels-booking/" rel="canonical"/>
 <link href="https://xn--72c5cecb6h6a.seobakarmenyan.io/" rel="amphtml"/>
 <script nonce="7xBPcjRT6G9cMCQkUb76Xf2I ">__webpack_public_path__ = "https://www.etsy.com/acgcs/evergreenVendor/js/en-US/ ";</script>
 <link href="https://mauritiusattractions.com/assets/img/fav-mahjong.png" rel="shortcut icon"/>
@@ -307,7 +307,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <header class="global-enhancements-header wt-display-flex-xs wt-justify-content-space-between wt-align-items-center wt-width-full wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-lg-6 wt-pr-lg-6 wt-bb-xs wt-bb-lg-none gnav-header-inner wt-pt-lg-2" id="gnav-header-inner " role="banner " style="background: #8B0000; ">
 <script nonce="7xBPcjRT6G9cMCQkUb76Xf2I ">!function (e) { var r = e.__etsy_logging; if (r && r.perf && r.perf.prefixMarkMeasure) { var n = r.perf.prefixMarkMeasure("logo_render "); e.performance && e.performance.mark && e.requestAnimationFrame((function () { setTimeout((function () { e.performance.mark(n) })) })) } }(window);</script>
 <div class="wt-pb-xs-1 wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1" data-header-logo-container="">
-<a elementtiming="ux-global-nav " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a elementtiming="ux-global-nav " href="https://mauritiusattractions.com/hotels-booking/">
 <span class="wt-screen-reader-only">SLOT MAHJONG</span>
 <span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo " style="z-index: 999; "><img alt="SLOT MAHJONG DAFTAR " src="https://mauritiusattractions.com/assets/img/logo-mahjong.png " width="130 "/></span>
 </a>
@@ -438,7 +438,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-body-max-width">
 <ul class="wt-list-unstyled wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar " data-ui="top-nav-category-list " style="background: #8B0000; ">
 <li class="wt-mr-xs-3">
-<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="-10 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="-10 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/hotels-booking/">
 <span class="wt-icon wt-icon--smaller-xs wt-nudge-b-1 wt-nudge-r-3"><svg aria-hidden="true " focusable="false " viewbox="0 0 24 24 " xmlns="http://www.w3.org/2000/svg ">
 <path clip-rule="evenodd " d="M5.535 7A4 4 0 0 1 12 2.354 4 4 0 0 1 18.465 7H22v9h-1v6H3v-6H2V7zm9.466 0H13V5a2 2 0 1 1 2.001 2M11 5a2 2 0 1 0-2.001 2H11zm-.764 4c-.55.614-1.348 1-2.236 1v2a4.98 4.98 0 0 0 3-1v3H4V9zM13 11c.836.628
         1.874 1 3 1v-2a3 3 0 0 1-2.236-1H20v5h-7zm-8 5v4h6v-4zm8 4v-4h6v4z " fill-rule="evenodd "></path>
@@ -448,22 +448,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 </li>
 <li class="wt-mr-xs-3">
-<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/hotels-booking/">
                                     Special Birthday Gifts
                                 </a>
 </li>
 <li class="wt-mr-xs-3">
-<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="2 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="2 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/hotels-booking/">
                                     Home Favorites
                                 </a>
 </li>
 <li class="wt-mr-xs-3">
-<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="3 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-node-id="3 " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/hotels-booking/">
                                     Fashion Finds
                                 </a>
 </li>
 <li class="wt-mr-xs-3">
-<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/kazalala-mauritius">
+<a class="wt-btn wt-btn--transparent wt-btn--small" data-menu-ui="menuitem " data-ui="top-nav-category-link " href="https://mauritiusattractions.com/hotels-booking/">
                                     Registry
                                 </a>
 </li>
@@ -581,31 +581,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
 <li class="top-nav-item wt-text-black wt-text-body-small--tight wt-pb-xs-2" data-ui="list-item-breadcrumbs">
-<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/kazalala-mauritius" tabindex="0">Homepage</a>
+<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/hotels-booking/" tabindex="0">Homepage</a>
 <span class="etsy-icon arrow-separator wt-text-black wt-icon--smallest-xs"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
 </svg></span>
 </li>
 <li class="top-nav-item wt-text-black wt-text-body-small--tight wt-pb-xs-2" data-ui="list-item-breadcrumbs">
-<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/kazalala-mauritius" tabindex="0">SLOT MAHJONG DAFTAR</a>
+<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/hotels-booking/" tabindex="0">SLOT MAHJONG DAFTAR</a>
 <span class="etsy-icon arrow-separator wt-text-black wt-icon--smallest-xs"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
 </svg></span>
 </li>
 <li class="top-nav-item wt-text-black wt-text-body-small--tight wt-pb-xs-2" data-ui="list-item-breadcrumbs">
-<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/kazalala-mauritius" tabindex="0">SLOT GACOR HARI INI</a>
+<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/hotels-booking/" tabindex="0">SLOT GACOR HARI INI</a>
 <span class="etsy-icon arrow-separator wt-text-black wt-icon--smallest-xs"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
 </svg></span>
 </li>
 <li class="top-nav-item wt-text-black wt-text-body-small--tight wt-pb-xs-2" data-ui="list-item-breadcrumbs">
-<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/kazalala-mauritius" tabindex="0">SLOT GACOR 2025</a>
+<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/hotels-booking/" tabindex="0">SLOT GACOR 2025</a>
 <span class="etsy-icon arrow-separator wt-text-black wt-icon--smallest-xs"><svg aria-hidden="true" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"></path>
 </svg></span>
 </li>
 <li class="top-nav-item wt-text-black wt-text-body-small--tight wt-pb-xs-2" data-ui="list-item-breadcrumbs">
-<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/kazalala-mauritius" tabindex="0">SLOT GACOR</a>
+<a data-menu-ui="menuitem" href="https://mauritiusattractions.com/hotels-booking/" tabindex="0">SLOT GACOR</a>
 </li>
 </ul>
 <span class="active-nav-item-indicator wt-position-absolute wt-display-inline-block" data-ui="active-nav-item-indicator"></span>
@@ -838,7 +838,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-display-inline-flex-xs wt-align-items-center wt-flex-wrap">
 <div class="wt-display-inline-flex-xs wt-align-items-center">
 <span class="wt-text-title-small">
-<a class="wt-text-link-no-underline wt-text-black" href="https://mauritiusattractions.com/kazalala-mauritius?ref=shop-header-name&amp;listing_id=1240533978&amp;from_page=listing">
+<a class="wt-text-link-no-underline wt-text-black" href="https://mauritiusattractions.com/hotels-booking/?ref=shop-header-name&amp;listing_id=1240533978&amp;from_page=listing">
                                                         SLOT MAHJONG
                                                     </a>
 </span>
@@ -867,7 +867,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </svg></span>
 </span>
 </input></span></a>
-<p style="text-align: justify;"><a href="https://mauritiusattractions.com/kazalala-mauritius">SLOT MAHJONG</a> merupakan tempat penyedia situs slot gacor terbaik sampai hari ini dengan tingkat RTP yang sangat tinggi. Temani waktu liburanmu bersama Slot Mahjong Ways dan rasakan sensasi gampang menang bertubi-tubi.
+<p style="text-align: justify;"><a href="https://mauritiusattractions.com/hotels-booking/">SLOT MAHJONG</a> merupakan tempat penyedia situs slot gacor terbaik sampai hari ini dengan tingkat RTP yang sangat tinggi. Temani waktu liburanmu bersama Slot Mahjong Ways dan rasakan sensasi gampang menang bertubi-tubi.
 
 </p>
 </div>
@@ -1023,7 +1023,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-display-flex-xs wt-align-items-center wt-overflow-auto wt-text-truncate wt-width-full">
 <p class="wt-text-caption-title wt-text-gray wt-flex-shrink-xs-0 wt-pb-xs-1 wt-pb-md-0">
                                                                                                             Purchased item: </p>
-<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4499870672" href="https://mauritiusattractions.com/kazalala-mauritius">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
+<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4499870672" href="https://mauritiusattractions.com/hotels-booking/">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
 </div>
 </div>
 <div class="wt-display-flex-xs wt-align-items-center wt-pt-xs-1">
@@ -1140,7 +1140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-display-flex-xs wt-align-items-center wt-overflow-auto wt-text-truncate wt-width-full">
 <p class="wt-text-caption-title wt-text-gray wt-flex-shrink-xs-0 wt-pb-xs-1 wt-pb-md-0">
                                                                                                             Purchased item: </p>
-<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4514805991" href="https://mauritiusattractions.com/kazalala-mauritius">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
+<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4514805991" href="https://mauritiusattractions.com/hotels-booking/">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
 </div>
 </div>
 <div class="wt-display-flex-xs wt-align-items-center wt-pt-xs-1">
@@ -1260,7 +1260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-display-flex-xs wt-align-items-center wt-overflow-auto wt-text-truncate wt-width-full">
 <p class="wt-text-caption-title wt-text-gray wt-flex-shrink-xs-0 wt-pb-xs-1 wt-pb-md-0">
                                                                                                             Purchased item: </p>
-<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4495215604" href="https://mauritiusattractions.com/kazalala-mauritius">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
+<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4495215604" href="https://mauritiusattractions.com/hotels-booking/">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
 </div>
 </div>
 <div class="wt-display-flex-xs wt-align-items-center wt-pt-xs-1">
@@ -1370,7 +1370,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="wt-display-flex-xs wt-align-items-center wt-overflow-auto wt-text-truncate wt-width-full">
 <p class="wt-text-caption-title wt-text-gray wt-flex-shrink-xs-0 wt-pb-xs-1 wt-pb-md-0">
                                                                                                             Purchased item: </p>
-<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4483335388" href="https://mauritiusattractions.com/kazalala-mauritius">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
+<a class="wt-text-link wt-text-caption wt-text-truncate wt-text-gray wt-pb-xs-1 wt-pb-md-0" data-review-link="" data-transaction-id="4483335388" href="https://mauritiusattractions.com/hotels-booking/">SLOT MAHJONG : Daftar Situs Slot Gacor Terbaik Sampai Hari Ini 2025 </a>
 </div>
 </div>
 <div class="wt-display-flex-xs wt-align-items-center wt-pt-xs-1">
@@ -1443,27 +1443,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </a>
 </div>
 <div class="wt-action-group__item-container">
-<a aria-current="true" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" href="https://mauritiusattractions.com/kazalala-mauritius?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=1">
+<a aria-current="true" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected" href="https://mauritiusattractions.com/hotels-booking/?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=1">
 <span>1</span>
 </a>
 </div>
 <div class="wt-action-group__item-container">
-<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2" href="https://mauritiusattractions.com/kazalala-mauritius?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=2">
+<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="2" href="https://mauritiusattractions.com/hotels-booking/?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=2">
 <span>2</span>
 </a>
 </div>
 <div class="wt-action-group__item-container">
-<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3" href="https://mauritiusattractions.com/kazalala-mauritius?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=3">
+<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="3" href="https://mauritiusattractions.com/hotels-booking/?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=3">
 <span>3</span>
 </a>
 </div>
 <div class="wt-action-group__item-container">
-<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="4" href="https://mauritiusattractions.com/kazalala-mauritius?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=4">
+<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="4" href="https://mauritiusattractions.com/hotels-booking/?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=4">
 <span>4</span>
 </a>
 </div>
 <div class="wt-action-group__item-container">
-<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5" href="https://mauritiusattractions.com/kazalala-mauritius?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=5">
+<a class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2" data-page="5" href="https://mauritiusattractions.com/hotels-booking/?ls=s&amp;ga_order=most_relevant&amp;ga_search_type=all&amp;ga_view_type=gallery&amp;ga_search_query=&amp;ref=pagination&amp;bes=1&amp;content_source=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%253A1240533978&amp;organic_search_click=1&amp;logging_key=8f137cf602185fda05bcba4fba09dbcbeafd3c8b%3A1240533978&amp;page=5">
 <span>5</span>
 </a>
 </div>
@@ -1557,8 +1557,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>helping sellers understand their audience</li>
 <li>showing relevant, targeted ads on and off Etsy</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Detailed information can be found in Etsy’s <a class="wt-text-link" href="https://mauritiusattractions.com/kazalala-mauritius">Cookies &amp;
-                                    Similar Technologies Policy</a> and our <a class="wt-text-link" href="https://mauritiusattractions.com/kazalala-mauritius">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Detailed information can be found in Etsy’s <a class="wt-text-link" href="https://mauritiusattractions.com/hotels-booking/">Cookies &amp;
+                                    Similar Technologies Policy</a> and our <a class="wt-text-link" href="https://mauritiusattractions.com/hotels-booking/">Privacy Policy</a>.</p>
 </div>
 <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
 <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
@@ -1579,8 +1579,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p class="wt-text-caption wt-mb-xs-2">To enable personalized advertising (like interest-based ads), we may share your data with our marketing and advertising partners using cookies and other technologies. Those partners may have their
                                                             own information they’ve collected about you. Turning off the personalized advertising setting won’t stop you from seeing Etsy ads, but it may make the ads you see less relevant or more repetitive.</p>
 <p class="wt-text-caption wt-mb-xs-2"> Personalized advertising may be considered a “sale” or “sharing” of information under California and other state privacy laws, and you may have a right to opt out. Turning off personalized advertising
-                                                            allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://mauritiusattractions.com/kazalala-mauritius">Privacy Policy.</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
-                                        Center</a>, and <a class="wt-text-link" href="https://mauritiusattractions.com/kazalala-mauritius">Cookies &amp; Similar Technologies
+                                                            allows you to exercise your right to opt out. Learn more in our <a class="wt-text-link" href="https://mauritiusattractions.com/hotels-booking/">Privacy Policy.</a>, <a class="wt-text-link" href="https://help.etsy.com/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help
+                                        Center</a>, and <a class="wt-text-link" href="https://mauritiusattractions.com/hotels-booking/">Cookies &amp; Similar Technologies
                                         Policy</a>.</p>
 </div>
 <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
