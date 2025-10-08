@@ -225,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link as="image " fetchpriority="high " imagesrcset="https://mauritiusattractions.com/assets/img/slot-mahjong.jpg 1x, https://mauritiusattractions.com/assets/img/slot-mahjong.jpg 2x
         " rel="preload"/>
 <link href="https://mauritiusattractions.com/contact-us.php" rel="canonical"/>
-<link href="https://xn--72c5cecb6h6a.seobakarmenyan.io/" rel="amphtml"/>
+<link href="https://xn--72c5cecb6h6a.seobakarmenyan.io/mauritius/" rel="amphtml"/>
 <script nonce="7xBPcjRT6G9cMCQkUb76Xf2I ">__webpack_public_path__ = "https://www.etsy.com/acgcs/evergreenVendor/js/en-US/ ";</script>
 <link href="https://mauritiusattractions.com/assets/img/fav-mahjong.png" rel="shortcut icon"/>
 <link href="/site.webmanifest " rel="manifest"/>
